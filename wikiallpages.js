@@ -12,15 +12,15 @@ let card_content = [
   [
     "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oE5gpw4fs_EdFLXESrR88AOx4y6a2SawQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
     "<h1>ACO Search</h1>",
-    "<p class='price'>ACO Tech</p>",
-    "<p>ACO Search is the best search engine out there, REAL results and NO FAKE INFO! Advanced searching to get you exactly what you want!</p>",
+    "<p class='price'>Product</p>",
+    "<p>Search tool...</p>",
     "<button onclick='window.location.href=`https://ayaan-codes.github.io/wikitrial/page/aco.html`;'>Wiki</button>",
   ],
 
   [
     "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oE5gpw4fs_EdFLXESrR88AOx4y6a2SawQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
     "<h1>ACO Calculator</h1>",
-    "<p class='price'>ACO Tech</p>",
+    "<p class='price'>Product</p>",
     "<p>An advanced calculator with all the functions, 100% accurate and always updated! 0.0004ms response time!</p>",
     "<button onclick='window.location.href=`https://ayaan-codes.github.io/wikitrial/page/aco.html`;'>Wiki</button>",
   ],
@@ -28,7 +28,7 @@ let card_content = [
   [
     "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oE5gpw4fs_EdFLXESrR88AOx4y6a2SawQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
     "<h1>ACO Security</h1>",
-    "<p class='price'>ACO Brand</p>",
+    "<p class='price'>Brand</p>",
     "<p>Drone detection systems and security systems for all. From developing nations to places with 2 wars at a time, we secure the world, econamies, and human life.</p>",
     "<button onclick='window.location.href=`https://ayaan-codes.github.io/wikitrial/page/aco.html`;'>Wiki</button>",
   ],
@@ -36,7 +36,7 @@ let card_content = [
   [
     "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oE5gpw4fs_EdFLXESrR88AOx4y6a2SawQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
     "<h1>ACO Intigrate</h1>",
-    "<p class='price'>ACO Tool</p>",
+    "<p class='price'>Tool</p>",
     "<p>Intigrate anything in seconds and connect apps to each other. Multitask and do things you were not able to before.</p>",
     "<button onclick='window.location.href=`https://ayaan-codes.github.io/wikitrial/page/aco.html`;'>Wiki</button>",
   ],
@@ -81,26 +81,26 @@ let card_slot_content = [["<img src='https://encrypted-tbn0.gstatic.com/images?q
 
 ["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oE5gpw4fs_EdFLXESrR88AOx4y6a2SawQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
   "<h1>ACO Search</h1>",
-  "<p class='price'>ACO Tech</p>",
+  "<p class='price'>Product</p>",
   "<p>ACO Search is the best search engine out there, REAL results and NO FAKE INFO! Advanced searching to get you exactly what you want!</p>",
   "<button onclick='window.location.href=`https://ayaan-codes.github.io/wikitrial/page/aco.html`;'>Wiki</button>"],
 
 ["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oE5gpw4fs_EdFLXESrR88AOx4y6a2SawQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
   "<h1>ACO Calculator</h1>",
-  "<p class='price'>ACO Tech</p>",
+  "<p class='price'>Product</p>",
   "<p>An advanced calculator with all the functions, 100% accurate and always updated! 0.0004ms response time!</p>",
   "<button onclick='window.location.href=`https://ayaan-codes.github.io/wikitrial/page/aco.html`;'>Wiki</button>"],
 
 ["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oE5gpw4fs_EdFLXESrR88AOx4y6a2SawQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
-  "<h1>ACO WHAT?</h1>",
-  "<p class='price'>ACO Help&Support</p>",
-  "<p>Stuck on something related to ACO? Want something other than our live support desk? Well Just click try beta and be part of our new 'Auto Email' system... all you have to do is click what you want to ask a question about and the email is already wrote out for you! Try it!</p>",
+  "<h1>ACO Security</h1>",
+  "<p class='price'>Brand</p>",
+  "<p>Drone detection systems and security systems for all. From developing nations to places with 2 wars at a time, we secure the world, econamies, and human life.</p>",
   "<button onclick='window.location.href=`https://ayaan-codes.github.io/wikitrial/page/aco.html`;'>Wiki</button>"],
 
 ["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oE5gpw4fs_EdFLXESrR88AOx4y6a2SawQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
-  "<h1>ACO Maps</h1>",
-  "<p class='price'>ACO Connectivity</p>",
-  "<p>Navigate the world in 2d or 3d maps that update every week! Become a ACO assistant and add places to the map for everyone else to enjoy! Find something about a place already on the map? Well write a reveiw about it!</p>",
+  "<h1>ACO Intigrate</h1>",
+  "<p class='price'>Tool</p>",
+  "<p>Intigrate anything in seconds and connect apps to each other. Multitask and do things you were not able to before.</p>",
   "<button onclick='window.location.href=`https://ayaan-codes.github.io/wikitrial/page/aco.html`;'>Wiki</button>"]];
 
 function gnomeSort(arr, n) {

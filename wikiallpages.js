@@ -26,21 +26,21 @@ let card_content = [
     ],
 
     [
-        "<img src='https://img.freepik.com/free-vector/premium-collection-badge-design-vector_53876-43821.jpg?size=338&ext=jpg' alt='Denim Jeans' style='width:100%'>",
-        "<h1>ACO Premium</h1>",
-        "<p class='price'>ACO Membership</p>",
-        "<p>Perks, on perks, on perks, on more perks! The BEST membership you can get with discounts, more product, and extra service. There is at least 1 new perk per week!</p>",
-        "<button onclick='window.location.href=`premium.html`;'>Get prime today!</button>",
+        "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSbF2aenrgIOevm7YJutgS90BK1-_9IKTRaw&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
+        "<h1>ACO Security</h1>",
+        "<p class='price'>ACO Brand</p>",
+        "<p>Drone detection systems and security systems for all. From developing nations to places with 2 wars at a time, we secure the world, econamies, and human life.</p>",
+        "<button onclick='window.location.href=`https://comingsoon.acodevelopment.repl.co/`;'>Coming Soon</button>",
     ],
 
     [
-        "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ygxR8NckMCSqqP8UWkG4d_k4gBGfh0Bx9w&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
-        "<h1>SMARTi app</h1>",
-        "<p class='price'>ACO app</p>",
-        "<p>(BETA) This is the new SMARTi app, it is like Siri and Alexa. We have a ton of fetures and can beat everything else on the internet!</p>",
-        "<button onclick='window.location.href=`https://ayaan-codes.github.io/aco-smarti/`;'>Try it early!</button>",
+        "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSbF2aenrgIOevm7YJutgS90BK1-_9IKTRaw&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
+        "<h1>ACO Intigrate</h1>",
+        "<p class='price'>ACO Tool</p>",
+        "<p>Intigrate anything in seconds and connect apps to each other. Multitask and do things you were not able to before.</p>",
+        "<button onclick='window.location.href=`https://comingsoon.acodevelopment.repl.co/`;'>Coming Soon</button>",
     ],
-
+  
   
 ];
 
@@ -69,9 +69,8 @@ const products = [
     "ACO Online Security & Ad Blocker",
     "ACO Search",
     "ACO Calculator",
-    "ACO Premium",
-    "ACO SMARTi app",
-   
+    "ACO WHAT?",
+    "ACO Maps",
 ]
 
 let card_slot_content = [["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlYvzt71tyiUOpi5T6DK7z2KpNo6wMQpTrAg&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
@@ -92,20 +91,17 @@ let card_slot_content = [["<img src='https://encrypted-tbn0.gstatic.com/images?q
                     "<p>An advanced calculator with all the functions, 100% accurate and always updated! 0.0004ms response time!</p>",
                     "<button onclick='window.location.href=`https://ayaan-codes.github.io/calculator/`;'>Use now!</button>],"],
 
-                    ["<img src='https://img.freepik.com/free-vector/premium-collection-badge-design-vector_53876-43821.jpg?size=338&ext=jpg' alt='Denim Jeans' style='width:100%'>",
-                    "<h1>ACO Premium</h1>",
-                    "<p class='price'>ACO Membership</p>",
-                    "<p>Perks, on perks, on perks, on more perks! The BEST membership you can get with discounts, more product, and extra service. There is at least 1 new perk per week!</p>",
-                    "<button onclick='window.location.href=`premium.html`;'>Get prime today!</button>"],
+                    ["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWzrQ9UFAnN1PNXil4ckdo8vdq-kQme3qVQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
+                 "<h1>ACO WHAT?</h1>",
+                 "<p class='price'>ACO Help&Support</p>",
+                 "<p>Stuck on something related to ACO? Want something other than our live support desk? Well Just click try beta and be part of our new 'Auto Email' system... all you have to do is click what you want to ask a question about and the email is already wrote out for you! Try it!</p>",
+                 "<button onclick='window.location.href=`mailto:aco.development.studio@gmail.com?subject=Auto Help Email&body= Auto Composed email!`;'>Ask here!</button>"],
 
-    
-                    ["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ygxR8NckMCSqqP8UWkG4d_k4gBGfh0Bx9w&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
-                 "<h1>SMARTi app</h1>",
-                 "<p class='price'>ACO app</p>",
-                 "<p>(BETA) This is the new SMARTi app, it is like Siri and Alexa. We have a ton of fetures and can beat everything else on the internet!</p>",
-                 "<button onclick='window.location.href=`https://ayaan-codes.github.io/aco-smarti/`;'>Try it early!</button>"],
-
-            ]];
+                  ["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROAmz7yqStJsIfaICjbFWVgyNEUiqvhODdqQ&usqp=CAU' alt='Denim Jeans' style='width:100%'>",
+                  "<h1>ACO Maps</h1>",
+                  "<p class='price'>ACO Connectivity</p>",
+                  "<p>Navigate the world in 2d or 3d maps that update every week! Become a ACO assistant and add places to the map for everyone else to enjoy! Find something about a place already on the map? Well write a reveiw about it!</p>",
+                  "<button onclick='window.location.href=`mailto:a.co.network01@gmail.com`;'>Request beta!</button>"]];
 
 function gnomeSort(arr, n)
 {

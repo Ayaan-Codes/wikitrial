@@ -105,7 +105,7 @@ let card_slot_content = [["<img src='https://encrypted-tbn0.gstatic.com/images?q
                  "<p>(BETA) This is the new SMARTi app, it is like Siri and Alexa. We have a ton of fetures and can beat everything else on the internet!</p>",
                  "<button onclick='window.location.href=`https://ayaan-codes.github.io/aco-smarti/`;'>Try it early!</button>"],
 
-            ];
+            ]];
 
 function gnomeSort(arr, n)
 {

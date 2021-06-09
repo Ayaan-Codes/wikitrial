@@ -709,6 +709,30 @@ h3 label{
          
          document.oncontextmenu=new Function("alert(message);return false")
       </script>
+	  <script>
+		  function changeBg(){
+
+			const images = [
+				'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJWo5h5a3QtBgsHF830c5Jv0WBw0N9Iu7Yw&usqp=CAU")',
+				'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_78jFGx83s34HlqB7mUHb4cNwSJrAy6VrQ&usqp=CAU")',
+				'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNFvidWpiq-x7bM1tWQfGmWJ39AcsTB5LHmw&usqp=CAU")',
+				'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKXpwHknufPSRyxGUnxLp9exXmH7gmcWwLQ&usqp=CAU")',
+				'url("imageurl")',
+				'url("imageurl")',
+				'url("imageurl")',
+				'url("imageurl")',
+				'url("imageurl")',
+				'url("imageurl")',
+			]
+
+			  const section = document.querySelector('section')
+			  const bg = images[Math.floor(Math.random() * 
+			  images.length)];
+			  section.style.backgoundImage = bg;
+		  }
+
+		  setInterval(changeBg, 5000)
+	  </script>
    <!--📄Script JS\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/\---/-->
    
    
